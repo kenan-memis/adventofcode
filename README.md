@@ -6,4 +6,3 @@ My solutions to https://adventofcode.com/ puzzles
 
 [Advent of Code 2019](https://adventofcode.com)
 
-I will try to solve the puzzles with Ruby, Elixir and Python.
