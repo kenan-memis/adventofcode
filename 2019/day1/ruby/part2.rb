@@ -1,6 +1,6 @@
 sum = 0
 
-File.readlines('./input.txt').each do |line|
+File.readlines('../input.txt').each do |line|
   module_fuel = []
   result = line.to_i
 
